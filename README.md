@@ -73,3 +73,11 @@ struct Model {
     uint8 rating; // Average rating of the model
     uint256 ratingCount; // Number of ratings
 }
+```
+## Screenshots
+![Снимок экрана 2025-01-14 154225](https://github.com/user-attachments/assets/cc40e832-a54f-4353-b5bd-47a7aa4b6d4c)
+![Снимок экрана 2025-01-14 154245](https://github.com/user-attachments/assets/d7a5c429-8ade-4507-9e13-eaba4b209aa4)
+![image](https://github.com/user-attachments/assets/3e14e135-ee7c-48ad-8bcb-40e6a9d10973)
+![image](https://github.com/user-attachments/assets/7543a6d4-0e66-4a6d-84c9-d427c564b454)
+
+
