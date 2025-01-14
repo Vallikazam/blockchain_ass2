@@ -5,7 +5,6 @@ Description: This is a project to create a decentralized marketplace for AI mode
 
 ## Project structure
 
-```plaintext
 market/                           # Project root folder
 │
 ├── contracts/                     # Solidity Contracts Folder
