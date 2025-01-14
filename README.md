@@ -1,6 +1,7 @@
-# Sample Hardhat Project
-
-This is a project to create a decentralized marketplace for AI models using smart contracts and Web3.js integration on the frontend. The project uses Hardhat to develop and deploy smart contracts, and Web3.js to interact with the blockchain via a web browser.
+# Blockchain Assignment 2 Project
+Made by: Alinur Zhumadil 
+Task: AI Model Marketplace dApp
+Description: This is a project to create a decentralized marketplace for AI models using smart contracts and Web3.js integration on the frontend. The project uses Hardhat to develop and deploy smart contracts, and Web3.js to interact with the blockchain via a web browser.
 
 ## Project structure
 
