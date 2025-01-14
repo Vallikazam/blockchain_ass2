@@ -4,7 +4,7 @@ Task: AI Model Marketplace dApp
 Description: This is a project to create a decentralized marketplace for AI models using smart contracts and Web3.js integration on the frontend. The project uses Hardhat to develop and deploy smart contracts, and Web3.js to interact with the blockchain via a web browser.
 
 ## Project structure
-
+```plaintext
 market/                           # Project root folder
 │
 ├── contracts/                     # Solidity Contracts Folder
@@ -28,7 +28,7 @@ market/                           # Project root folder
 ├── hardhat.config.js               # Hardhat Configuration
 ├── package.json                    # Dependency File
 └── README.md                       # Project Description
-
+```
 ## Key Features
 
 1. **List Models**: Users can upload AI models with a name, description, and price.
